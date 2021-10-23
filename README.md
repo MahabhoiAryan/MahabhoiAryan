@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="250"  src="https://i.pinimg.com/originals/0e/56/ae/0e56ae1b9b14c16552177b21ad61228d.gif" height="150px"/></a>
+<a href="#"><img width="100%" height="320"  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="320px"/></a>
 <h1 align="center">Namaste <img src="https://media2.giphy.com/media/H6ilizZ1OiCYeFajpA/giphy.gif" width="40px">, I'm Aryan Mahabhoi</h1>
 <h3 align="center">Computer Science Engineer</h3>
 
