@@ -42,6 +42,7 @@
 <br/>
 
 <a href="https://github.com/MahabhoiAryan/github-readme-activity-graph"><img alt="Aryan Mahabhoi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MahabhoiAryan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/MahabhoiAryan/github-readme-stats"><img alt="Aryan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahabhoiAryan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
 <br/>
