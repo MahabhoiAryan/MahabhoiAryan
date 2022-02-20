@@ -1,11 +1,11 @@
 <a href="#"><img width="100%" height="320"  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="320px"/></a>
 <h1 align="center">Namaste <img src="https://media2.giphy.com/media/H6ilizZ1OiCYeFajpA/giphy.gif" width="40px">, I'm Aryan Mahabhoi</h1>
-<h3 align="center">Computer Science Engineer</h3>
+<h3 align="center">Computer Science and Engineer</h3>
 
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m pursuing Under Graduate in **Computer Science Engineer**
+- 🌱 I’m pursuing B.Tech in **Computer Science and Engineer**
 
 - 📫 How to reach me **aryanmahabhoi@gmail.com**
 
