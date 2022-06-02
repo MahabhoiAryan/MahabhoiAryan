@@ -1,5 +1,5 @@
 <a href="#"><img width="100%" height="320"  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="320px"/></a>
-<h1 align="center">Namaste <img src="https://media2.giphy.com/media/H6ilizZ1OiCYeFajpA/giphy.gif" width="40px">, I'm Aryan Mahabhoi</h1>
+<h1 align="center">Namaste <img src="https://media2.giphy.com/media/H6ilizZ1OiCYeFajpA/giphy.gif" width="40px" height="50px">, I'm Aryan Mahabhoi</h1>
 <h3 align="center">Computer Science and Engineer</h3>
 
 
