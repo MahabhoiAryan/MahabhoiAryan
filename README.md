@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aryanmahabhoi@gmail.com**
 
-- 💻🖥 Learning New Things Like **Designing and Developing** a Website  
+- 💻🖥 Learning New Things Like **Designing, Developing and Data analysts** a Website  
 
 - ⚡ Fun fact **I'm Astrophile 🚀🛰🛸👨‍🚀🪐🌌🌏**
 
